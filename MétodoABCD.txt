@@ -1,0 +1,7 @@
+MÉTODO ABCDE
+
+A - Assets (recursos como gif, imagens, videos, paleta de cores)
+B - Bases (dados para gerar a dashboards principal ou outras medidas)
+C - Cálculos (meio de campo que processa dados para transformar em informações)
+D - Dashboards (Painél visual)
+E - Extras PDF's material de apoio, estudos, etc
