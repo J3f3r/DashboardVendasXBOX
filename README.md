@@ -40,7 +40,7 @@ Este projeto consiste na criação de um **dashboard interativo em Excel** para 
   - Cards com “Big Numbers” para EA Play e Minecraft  
   - Gráfico de colunas interativo  
   - Filtro dinâmico para alternar entre **anual, quartenal e mensal**  
-  - Avatares personalizados para os diretores Abel e Iza  
+  - Avatares personalizados para os diretores Ariel e Iza  
   - Todos os grupos configurados para **não serem redimensionados ou movidos** com alteração de células  
   - Design harmonizado com a **identidade visual do Xbox**
 
@@ -66,7 +66,7 @@ Este projeto consiste na criação de um **dashboard interativo em Excel** para 
 
 ## 👥 Público-Alvo
 
-- Diretores: **Abel** e **Iza**  
+- Diretores: **Ariel** e **Iza**  
 - Equipe de análise e tomada de decisão  
 - Stakeholders interessados em acompanhar as métricas de vendas e desempenho dos planos de assinatura Xbox
 
